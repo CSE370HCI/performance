@@ -1,0 +1,34 @@
+
+
+.parallax3 {
+    /* The image used */
+    background-image: url('chip.jpg');
+
+    /* Full height */
+    min-height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    text-align: center;
+}
+
+
+.parallax4 {
+    /* The image used */
+    background-image: url('images4/transparent.JPG');
+
+    /* Full height */
+    min-height: 100px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+
+}
